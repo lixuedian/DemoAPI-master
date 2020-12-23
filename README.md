@@ -25,11 +25,3 @@
 * testcase/:               用于编写接口自动化测试用例
 * run_demo.py:             执行所有接口测试用例的主程序
 
-## 测试结果展示
-* HTML报告
-![Image](https://github.com/yingoja/DemoAPI/blob/master/share/screeshots/report1.JPG)
-![Image](https://github.com/yingoja/DemoAPI/blob/master/share/screeshots/report.JPG)
-* Excel用例结果
-![Image](https://github.com/yingoja/DemoAPI/blob/master/share/screeshots/excel.JPG)
-* 邮件收到的测试报告
-![Image](https://github.com/yingoja/DemoAPI/blob/master/share/screeshots/mail.JPG)
